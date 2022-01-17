@@ -20,3 +20,4 @@ https://adventofcode.com/2021
 - [Day 16](https://nbviewer.org/urls/git.sr.ht/~brodie/advent-of-code-2021/blob/master/day-16.ipynb)
 - [Day 17](https://nbviewer.org/urls/git.sr.ht/~brodie/advent-of-code-2021/blob/master/day-17.ipynb)
 - [Day 18](https://nbviewer.org/urls/git.sr.ht/~brodie/advent-of-code-2021/blob/master/day-18.ipynb)
+- [Day 19](https://nbviewer.org/urls/git.sr.ht/~brodie/advent-of-code-2021/blob/master/day-19.ipynb)
